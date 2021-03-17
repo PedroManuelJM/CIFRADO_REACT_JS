@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/EMAIL_REACT_JS/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/EMAIL_REACT_JS/static/js/main.bce10d86.chunk.js",
+    "main.js.map": "/EMAIL_REACT_JS/static/js/main.bce10d86.chunk.js.map",
+    "runtime-main.js": "/EMAIL_REACT_JS/static/js/runtime-main.67d39093.js",
+    "runtime-main.js.map": "/EMAIL_REACT_JS/static/js/runtime-main.67d39093.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/EMAIL_REACT_JS/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6168864e.chunk.js": "/EMAIL_REACT_JS/static/js/2.6168864e.chunk.js",
+    "static/js/2.6168864e.chunk.js.map": "/EMAIL_REACT_JS/static/js/2.6168864e.chunk.js.map",
+    "static/js/3.eeaa2a50.chunk.js": "/EMAIL_REACT_JS/static/js/3.eeaa2a50.chunk.js",
+    "static/js/3.eeaa2a50.chunk.js.map": "/EMAIL_REACT_JS/static/js/3.eeaa2a50.chunk.js.map",
+    "index.html": "/EMAIL_REACT_JS/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/EMAIL_REACT_JS/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/EMAIL_REACT_JS/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6168864e.chunk.js.LICENSE.txt": "/EMAIL_REACT_JS/static/js/2.6168864e.chunk.js.LICENSE.txt",
+    "static/media/contacto.f2d77fc7.jpg": "/EMAIL_REACT_JS/static/media/contacto.f2d77fc7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67d39093.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6168864e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.bce10d86.chunk.js"
+  ]
+}
